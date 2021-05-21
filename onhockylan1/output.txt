@@ -1,0 +1,6 @@
+Bai1_HaVuLong_18001154.sh
+Tuan8_HaVuLong.sh
+bai4.java
+Cac so nguyen to trong day la : 2 3 5 7
+Cac so nguyen to trong day la : 2 3 5
+Cac so nguyen to trong day la : 2 3 5
